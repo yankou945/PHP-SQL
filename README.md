@@ -1,3 +1,4 @@
+Mehdi Darré
 quetsion 2,b:CREATE TABLE personnage
 (
     colonne1 (Nom du personnnage),
